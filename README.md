@@ -32,6 +32,10 @@ Studying to become a Full Stack Developer
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafitz-css" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888226188559024169/css3-original.svg">
 </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafitz-html" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888226390418264084/html5-original.svg">
+</div>
+
 
 #
 ### Social Networks:
