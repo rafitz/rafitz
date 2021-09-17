@@ -20,10 +20,17 @@ Studying to become a Full Stack Developer
 </div>
 
 #
-### Linguages:
+### Work With:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafitz-Lua" height="30" width="40" src="https://cdn.discordapp.com/attachments/783052680204517458/882948261244194857/lua-plain-wordmark.svg">
+</div>
+
+#
+### Learning:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafitz-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </div>
 
 #
