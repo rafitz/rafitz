@@ -33,6 +33,7 @@ Studying to become a Full Stack Developer
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafitz-js" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888226866941550642/javascript-original.svg">
+  <img align="center" alt="Rafitz-php" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888227665893556224/php-plain.svg">
 </div>
 
 #
