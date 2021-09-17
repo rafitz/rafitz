@@ -36,7 +36,7 @@ Studying to become a Full Stack Developer
   <img align="center" alt="Rafitz-php" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888227665893556224/php-plain.svg">
   <img align="center" alt="Rafitz-react" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888228399582162944/react-original.svg">
   <img align="center" alt="Rafitz-python" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888228739555676221/python-original.svg">
-  <img align="center" alt="Rafitz-vuejs" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888229062907166800/vuejs-line.svg">
+  <img align="center" alt="Rafitz-vuejs" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888229304666837064/vuejs-original.svg">
 </div>
 
 #
