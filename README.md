@@ -6,7 +6,7 @@ Procuro me aprofundar e me tornar um programador Full Stack
 
 ### Hey (🇺🇸)
 
-My name is Rafael Fogaça, i have 17 years old, actualy i work like a developer at FiveM by Fafnir Solutions, I'm from Curitiba-PR.
+My name is Rafael Fogaça, i have 17 years old, actualy i work like a developer at FiveM in Fafnir Solutions, I'm from Curitiba-PR.
     
 Studying to become a Full Stack Developer
 
