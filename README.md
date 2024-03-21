@@ -1,12 +1,12 @@
 ### Opa (🇧🇷) 
 
-Me chamo Rafael Fogaça, desenvolvedor de Lua no FiveM e moro em Curitiba-PR.
+Me chamo Rafael Fogaça, eu tenho 17 anos, atualmente eu trabalho como desenvolvedor no FiveM pela Fafnir Solutions, sou de Curitiba-PR.
     
 Procuro me aprofundar e me tornar um programador Full Stack
 
 ### Hey (🇺🇸)
 
-My name is Rafael Fogaça, Lua developer at FiveM and I live in Curitiba-PR.
+My name is Rafael Fogaça, i have 17 years old, actualy i work like a developer at FiveM by Fafnir Solutions, I'm from Curitiba-PR.
     
 Studying to become a Full Stack Developer
 
