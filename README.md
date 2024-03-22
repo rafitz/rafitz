@@ -23,7 +23,7 @@ Studying to become a Full Stack Developer
 ### Work With:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafitz-Lua" height="30" width="40" src="https://cdn.discordapp.com/attachments/783052680204517458/882948261244194857/lua-plain-wordmark.svg">
+  <img align="center" alt="Rafitz-Lua" height="30" width="40" src="https://cdn.discordapp.com/attachments/811539673209503744/1220534110494392470/Lua-Logo.svg.png?ex=660f49f8&is=65fcd4f8&hm=60d4754e7ad799cf5116fb733f7f81fe3332b42314947daefc23bd4f84651067&">
   <img align="center" alt="Rafitz-css" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888226188559024169/css3-original.svg">
   <img align="center" alt="Rafitz-html" height="30" width="40" src="https://cdn.discordapp.com/attachments/885838000423063572/888226390418264084/html5-original.svg">
 </div>
