@@ -1,6 +1,7 @@
 ### Opa (🇧🇷) 
 
-Me chamo Rafael Fogaça, eu tenho 18 anos, atualmente eu trabalho como desenvolvedor no FiveM pela Fafnir Solutions, sou de Curitiba-PR.
+Me chamo Rafael Fogaça, eu tenho 18 anos, atualmente eu trabalho como desenvolvedor no FiveM pela Fafnir Solutions, nasci em Curitiba-PR.
+Atualmente moro em MG e faço faculdade de Ciência da Computação na UNIFRAN - SP FRANCA.
     
 Procuro me aprofundar e me tornar um programador Full Stack
 
