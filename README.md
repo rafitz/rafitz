@@ -1,21 +1,23 @@
-### Opa (🇧🇷) 
-
-# Rafael Fogaça | 18 anos
+# (🇧🇷) Rafael Fogaça | 18 anos
 
 🖥️ Web Desenvolvedor na Fafnir Solutions (FiveM)
+
 🎓 Estudante de Ciência da Computação - 1/8 - UNIFRAN (Franca/SP)
+
 🌐 Aspirante a desenvolvedor Full Stack
+
 🏠 Natural de Curitiba-PR, residindo em MG
 
 Apaixonado por desenvolvimento web e soluções criativas. Buscando constantemente expandir conhecimentos em tecnologias front-end e back-end.
 
-### Hey (🇺🇸)
-
-# Rafael Fogaça | 18 years old
+# (🇺🇸) Rafael Fogaça | 18 years old
 
 🖥️ Web Developer at Fafnir Solutions (FiveM)
+
 🎓 Computer Science Student - 1/8 - UNIFRAN (Franca/SP, Brazil)
+
 🌐 Aspiring Full Stack Developer
+
 🏠 Originally from Curitiba-PR, currently living in MG, Brazil
 
 Passionate about web development and creative solutions. Constantly seeking to expand my knowledge in front-end and back-end technologies.
