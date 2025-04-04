@@ -2,7 +2,7 @@
 
 🖥️ Web Desenvolvedor na Fafnir Solutions (FiveM)
 
-🎓 Estudante de Ciência da Computação - 1/8 - UNIFRAN (Franca/SP)
+🎓 Estudante de Engenharia de Software - 1/10 - UFLA (Ssp/MG)
 
 🌐 Aspirante a desenvolvedor Full Stack
 
@@ -14,7 +14,7 @@ Apaixonado por desenvolvimento web e soluções criativas. Buscando constantemen
 
 🖥️ Web Developer at Fafnir Solutions (FiveM)
 
-🎓 Computer Science Student - 1/8 - UNIFRAN (Franca/SP, Brazil)
+🎓 Software Engineering Student - 1/10 - UFLA (Ssp/MG, Brazil)
 
 🌐 Aspiring Full Stack Developer
 
