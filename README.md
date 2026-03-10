@@ -1,8 +1,8 @@
-# (🇧🇷) Rafael Fogaça | 18 anos
+# (🇧🇷) Rafael Fogaça | 19 anos
 
-🖥️ Web Desenvolvedor na Fafnir Solutions (FiveM)
+🖥️ Web Desenvolvedor na Fafnir Solutions 
 
-🎓 Estudante de Engenharia de Software - 2/10 - UFLA (Ssp/MG)
+🎓 Estudante de Engenharia de Software - 3/10 - UFLA (Ssp/MG)
 
 🌐 Aspirante a desenvolvedor Full Stack
 
@@ -10,11 +10,11 @@
 
 Apaixonado por desenvolvimento web e soluções criativas. Buscando constantemente expandir conhecimentos em tecnologias front-end e back-end.
 
-# (🇺🇸) Rafael Fogaça | 18 years old
+# (🇺🇸) Rafael Fogaça | 19 years old
 
-🖥️ Web Developer at Fafnir Solutions (FiveM)
+🖥️ Web Developer at Fafnir Solutions 
 
-🎓 Software Engineering Student - 2/10 - UFLA (Ssp/MG, Brazil)
+🎓 Software Engineering Student - 3/10 - UFLA (Ssp/MG, Brazil)
 
 🌐 Aspiring Full Stack Developer
 
