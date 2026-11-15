@@ -19,9 +19,9 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0E0C0A&title_color=E8743B&icon_color=E8743B&text_color=EDE6DA
+          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&hide_border=true&bg_color=0E0C0A&title_color=E8743B&icon_color=E8743B&text_color=EDE6DA
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Gerar card de linguagens
         uses: stats-organization/github-readme-stats-action@v2
@@ -29,7 +29,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=0E0C0A&title_color=E8743B&text_color=EDE6DA
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Commitar os cards
         run: |
