@@ -1,43 +1,45 @@
-# (🇧🇷) Rafael Fogaça | 19 anos
+# Rafael Fogaça
 
-🖥️ Web Desenvolvedor na Fafnir Solutions 
+Desenvolvedor e empreendedor. Comecei a programar aos 14 anos, com Lua, e foi ali que me apaixonei por construir coisas.
 
-🎓 Estudante de Engenharia de Software - 3/10 - UFLA (Ssp/MG)
+- Fundador e proprietário da **[Fafnir Solutions](https://www.instagram.com/fafnirsolutions)**: sistemas web, aplicativos e software sob medida
+- Fundador e proprietário da **GR Lab 3D**: prototipagem e peças técnicas em impressão 3D
+- CTO do **CoffeeLog**: app de gestão da lavoura e rastreabilidade do café
+- Estudante de Engenharia de Software na **UFLA** (Universidade Federal de Lavras)
 
-🌐 Aspirante a desenvolvedor Full Stack
+Natural de Curitiba (PR), morando em Minas Gerais. Aprendi quase tudo sozinho, linguagem por linguagem, passei pelo curso.dev do Filipe Deschamps e hoje junto a prática das empresas com a teoria da faculdade.
 
-🏠 Natural de Curitiba-PR, residindo em MG
+<details>
+<summary><b>English version</b></summary>
+<br>
 
-Apaixonado por desenvolvimento web e soluções criativas. Buscando constantemente expandir conhecimentos em tecnologias front-end e back-end.
+Developer and entrepreneur. I started programming at 14 with Lua, and that's when I fell in love with building things.
 
-# (🇺🇸) Rafael Fogaça | 19 years old
+- Founder and owner of **[Fafnir Solutions](https://www.instagram.com/fafnirsolutions)**: web systems, apps and custom software
+- Founder and owner of **GR Lab 3D**: prototyping and technical parts in 3D printing
+- CTO at **CoffeeLog**: farm management and coffee traceability app
+- Software Engineering student at **UFLA** (Federal University of Lavras, Brazil)
 
-🖥️ Web Developer at Fafnir Solutions 
+Born in Curitiba (PR), living in Minas Gerais, Brazil. Mostly self-taught, one language at a time, I took Filipe Deschamps' curso.dev and now combine hands-on work at my companies with what I learn at university.
 
-🎓 Software Engineering Student - 3/10 - UFLA (Ssp/MG, Brazil)
+</details>
 
-🌐 Aspiring Full Stack Developer
+## Estatísticas
 
-🏠 Originally from Curitiba-PR, currently living in MG, Brazil
+<p>
+  <img height="170" src="./profile/stats.svg" alt="Estatísticas do GitHub de Rafael Fogaça">
+  <img height="170" src="./profile/top-langs.svg" alt="Linguagens mais usadas por Rafael Fogaça">
+</p>
 
-Passionate about web development and creative solutions. Constantly seeking to expand my knowledge in front-end and back-end technologies.
+## Onde me encontrar
 
-#
-### Status:
-
- <div>
-  <a href="https://github.com/rafitz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafitz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <br>
-  <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafitz&&langs_count=7&theme=dark"/>
-</div>
-
-#
-### Social Networks:
-
-<div> 
-  <a href="https://www.youtube.com/channel/UCuJIkFSCjubtU_5X_oPaKbw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rzfogaca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafitzz_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/dRg5grEZFc" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rafaelfocaca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+<p>
+  <a href="mailto:rafaelfocaca@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://instagram.com/rzfogaca"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.youtube.com/channel/UCuJIkFSCjubtU_5X_oPaKbw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.twitch.tv/rafitzz_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+  <a href="https://discord.gg/dRg5grEZFc"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <!-- LinkedIn: troque SEU-USUARIO e remova os comentários
+  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  -->
+</p>
