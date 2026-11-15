@@ -2,9 +2,9 @@
 
 Desenvolvedor e empreendedor. Comecei a programar aos 14 anos, com Lua, e foi ali que me apaixonei por construir coisas.
 
-- Fundador e proprietário da **[Fafnir Solutions](https://www.instagram.com/fafnirsolutions)**: sistemas web, aplicativos e software sob medida
-- Fundador e proprietário da **GR Lab 3D**: prototipagem e peças técnicas em impressão 3D
-- CTO do **CoffeeLog**: app de gestão da lavoura e rastreabilidade do café
+- Fundador e proprietário da **[Fafnir Solutions](https://fafnirsolutions.com.br)**: sistemas web, aplicativos e software sob medida
+- Fundador e proprietário da **[GR Lab 3D](https://grlab3d.com.br)**: prototipagem e peças técnicas em impressão 3D
+- CTO do **[CoffeeLog](https://coffeelogbr.com.br)**: app de gestão da lavoura e rastreabilidade do café
 - Estudante de Engenharia de Software na **UFLA** (Universidade Federal de Lavras)
 
 Natural de Curitiba (PR), morando em Minas Gerais. Aprendi quase tudo sozinho, linguagem por linguagem, passei pelo curso.dev do Filipe Deschamps e hoje junto a prática das empresas com a teoria da faculdade.
@@ -15,9 +15,9 @@ Natural de Curitiba (PR), morando em Minas Gerais. Aprendi quase tudo sozinho, l
 
 Developer and entrepreneur. I started programming at 14 with Lua, and that's when I fell in love with building things.
 
-- Founder and owner of **[Fafnir Solutions](https://www.instagram.com/fafnirsolutions)**: web systems, apps and custom software
-- Founder and owner of **GR Lab 3D**: prototyping and technical parts in 3D printing
-- CTO at **CoffeeLog**: farm management and coffee traceability app
+- Founder and owner of **[Fafnir Solutions](https://fafnirsolutions.com.br)**: web systems, apps and custom software
+- Founder and owner of **[GR Lab 3D](https://grlab3d.com.br)**: prototyping and technical parts in 3D printing
+- CTO at **[CoffeeLog](https://coffeelogbr.com.br)**: farm management and coffee traceability app
 - Software Engineering student at **UFLA** (Federal University of Lavras, Brazil)
 
 Born in Curitiba (PR), living in Minas Gerais, Brazil. Mostly self-taught, one language at a time, I took Filipe Deschamps' curso.dev and now combine hands-on work at my companies with what I learn at university.
@@ -37,9 +37,6 @@ Born in Curitiba (PR), living in Minas Gerais, Brazil. Mostly self-taught, one l
   <a href="mailto:rafaelfocaca@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://instagram.com/rzfogaca"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.youtube.com/channel/UCuJIkFSCjubtU_5X_oPaKbw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.twitch.tv/rafitzz_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
-  <a href="https://discord.gg/dRg5grEZFc"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <!-- LinkedIn: troque SEU-USUARIO e remova os comentários
-  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  -->
+  <a href="https://www.linkedin.com/in/rafael-damaceno-foga%C3%A7a-8bb502273"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Discord-rafitz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: rafitz">
 </p>
